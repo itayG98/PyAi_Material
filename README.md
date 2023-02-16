@@ -1,2 +1,2 @@
 # PyAi_Material
-My lectures added files
+My lectures files
