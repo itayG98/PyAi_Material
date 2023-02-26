@@ -3,4 +3,4 @@
 - datasets (csc,xlsx,txt) 
 - Jupyter Notebooks 
 - Pandas
-- Matplotlib and Seaborn
+- Matplotlib , Seaborn , plotly and cufflinks
