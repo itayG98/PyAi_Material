@@ -4,3 +4,4 @@
 - Jupyter Notebooks 
 - Pandas
 - Matplotlib , Seaborn , plotly and cufflinks
+- SKlearn
