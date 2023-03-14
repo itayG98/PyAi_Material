@@ -1,5 +1,5 @@
 # PyAi_Material
-### My lectures files
+### My lectures files working on the following subjects :
 - datasets (csv,xlsx,txt) 
 - Jupyter Notebooks 
 - Pandas
