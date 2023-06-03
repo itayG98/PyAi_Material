@@ -33,3 +33,7 @@ async def say_hello():
 @app.get("/Home")
 async def serve_home():
     return FileResponse('static/index.html')
+
+@app.get("/Me")
+async def serve_home():
+    return FileResponse('static/me.JPG')
