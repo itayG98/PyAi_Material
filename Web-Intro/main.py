@@ -22,7 +22,7 @@ async def root():
 
 @app.get("/hello/{name}")
 async def say_hello(name: str):
-    return {"data" :f" Hello {name}"}
+    return {"data": f" Hello {name}"}
 
 
 @app.get("/click")
@@ -33,4 +33,3 @@ async def say_hello():
 @app.get("/Home")
 async def serve_home():
     return FileResponse('static/index.html')
-
