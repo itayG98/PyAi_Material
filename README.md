@@ -1,4 +1,7 @@
 # PyAi_Material
+
+This repository contains instructional materials and examples used for teaching Python programming to youth students. It includes datasets, Jupyter Notebooks, and resources covering various topics in data analysis and visualization.
+
 ### My lectures files working on the following subjects :
 - datasets (csv,xlsx,txt) 
 - Jupyter Notebooks 
